@@ -250,10 +250,10 @@ The environment provides a controlled platform for practicing cybersecurity conc
 
 ## 👤 Author
 
-**Samuel Lucky**  
+**Ismail Victor Elias**  
 Cybersecurity Professional B083
 
-**LinkedIn:** https://www.linkedin.com/in/lucky-samuel-4bb397296
+**LinkedIn:** https://www.linkedin.com/in/victor-ismail-a94011240?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 
 ## 📌 Project Information
 
